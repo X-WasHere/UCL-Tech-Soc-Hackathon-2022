@@ -1,8 +1,7 @@
 # Frontend of UCL Resolve
 This is the frontend github repository for UCL Resolve, a project for a UCL Hackathon 2022. 
 
-The frontend section is also hosted at heroku [server](https://www.google.com).
-The api section is located [Here](https://github.com/ucl-hackathon-2022/api).
+The frontend section is hosted at heroku [server](https://www.google.com) and the API section is located [here](https://github.com/ucl-hackathon-2022/api).
 
 ## Procedure for installing/running UCL Resolve
 
